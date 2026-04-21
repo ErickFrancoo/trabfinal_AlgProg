@@ -1,0 +1,16 @@
+1 - nome1fase * pontuacao
+2 - nome1fase * pontuacao
+3 - nome1fase * pontuacao
+4 - nome1fase * pontuacao
+5 - nome1fase * pontuacao
+1 - nome2fase * pontuacao
+2 - nome2fase * pontuacao
+3 - nome2fase * pontuacao
+4 - nome2fase * pontuacao
+5 - nome2fase * pontuacao
+1 - nome3fase * pontuacao
+2 - nome3fase * pontuacao
+3 - nome3fase * pontuacao
+4 - nome3fase * pontuacao
+5 - nome3fase * pontuacao
+A
